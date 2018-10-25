@@ -1,0 +1,147 @@
+{
+  "myAccount": [
+    {
+      "id": 1,
+      "nama": "Paulina",
+      "handphone": 628961281021,
+      "alamat": "Jalan baru 21",
+      "rekening": 3423122312
+    },
+    {
+      "id": 2,
+      "nama": "Paulo",
+      "handphone": 6282189783122,
+      "alamat": "jalan nangka 12",
+      "rekening": 1628783692
+    },
+    {
+      "nama": "muhidin",
+      "handphone": "089898409243",
+      "alamat": "jalan jembatan lima 10",
+      "rekening": "23928471133",
+      "id": 3
+    },
+    {
+      "nama": "dodi",
+      "handphone": "83294723904",
+      "alamat": "jalan jalan",
+      "rekening": "478234723",
+      "id": 4
+    },
+    {
+      "nama": "endah",
+      "handphone": "9395739492",
+      "alamat": "jalan kenangan",
+      "rekening": "43429492423",
+      "id": 5
+    }
+  ],
+  "schedule": [
+    {
+      "id": 1,
+      "jadwal": "senin",
+      "deskripsi": "Pengangkutan Sampah",
+      "tanggal": "23/10/2018",
+      "tempat": "tenggerang selatan"
+    }
+  ],
+  "transaction": [
+    {
+      "id": 1,
+      "Jemput": "iya",
+      "ProdukList": "kaleng",
+      "Tambah_Keranjang": "botol",
+      "Konfirmasi": "accept",
+      "Detail_Transaksi": "2 item"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "myAccountId": 1,
+      "nama": "Paulina",
+      "handphone": 628961281021,
+      "alamat": "Jalan baru 21",
+      "rekening": 3423122312
+    },
+    {
+      "id": 2,
+      "myAccountId": 2,
+      "nama": "Paulo",
+      "handphone": 6282189783122,
+      "alamat": "jalan nangka 12",
+      "rekening": 1628783692
+    }
+  ],
+  "listPrice": [
+    {
+      "id": 1,
+      "produk": "kaleng",
+      "harga": 5000,
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Sampah Merdeka",
+      "updateTerakhir": "25/10/2018"
+    },
+    {
+      "id": "2",
+      "produk": "plastik",
+      "harga": "3500",
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Samoah Bulan",
+      "updateTerakhir": "25/10/2018"
+    },
+    {
+      "id": "3",
+      "produk": "botol plastik",
+      "harga": "4500",
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Sampah Matahari",
+      "updateTerakhir": "25/10/2018"
+    },
+    {
+      "id": "4",
+      "produk": "botol kaca",
+      "harga": "5500",
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Sampah Bintang",
+      "updateTerakhir": "25/10/2018"
+    },
+    {
+      "id": "5",
+      "produk": "botol oli",
+      "harga": "4500",
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Sampah Pelangi",
+      "updateTerakhir": "25/10/2018"
+    },
+    {
+      "id": "6",
+      "produk": "aki",
+      "harga": "5500",
+      "satuan": "kilogram",
+      "namaBankSampah": "Bank Sampah Sinar",
+      "updateTerakhir": "25/10/2018"
+    }
+  ],
+  "feature": [
+    {
+      "id": 1,
+      "saldo": "",
+      "topup": "",
+      "t_bayar": "",
+      "t_beli": "",
+      "t_merchant": "",
+      "t_warung": "",
+      "t_jajan": "",
+      "t_chat": "",
+      "t_belajar": "",
+      "t_games": ""
+    }
+  ],
+  "checkTransaction": [
+    {
+      "id": 1,
+      "status": ""
+    }
+  ]
+}
