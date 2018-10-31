@@ -36,41 +36,41 @@
       "id": 5
     }
   ],
-  "schedule": [
-    {
-      "id": 1,
-      "jadwal": "senin",
-      "deskripsi": "Pengangkutan Sampah",
-      "tanggal": "23/10/2018",
-      "tempat": "tenggerang selatan"
-    }
-  ],
   "transaction": [
     {
       "id": 1,
       "Jemput": "iya",
-      "ProdukList": "kaleng",
-      "Tambah_Keranjang": "botol",
+      "ProdukList": "Kaleng",
       "Konfirmasi": "accept",
-      "Detail_Transaksi": "2 item"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "myAccountId": 1,
-      "nama": "Paulina",
-      "handphone": 628961281021,
-      "alamat": "Jalan baru 21",
-      "rekening": 3423122312
+      "DetailTransaksi": "3 karung"
     },
     {
-      "id": 2,
-      "myAccountId": 2,
-      "nama": "Paulo",
-      "handphone": 6282189783122,
-      "alamat": "jalan nangka 12",
-      "rekening": 1628783692
+      "id": "2",
+      "Jemput": "iya",
+      "ProdukList": "Botol Plastik",
+      "Konfirmasi": "accept",
+      "DetailTransaksi": "5 karung"
+    },
+    {
+      "id": "3",
+      "Jemput": "iya",
+      "ProdukList": "Aki",
+      "Konfirmasi": "accept",
+      "DetailTransaksi": "2 karung"
+    },
+    {
+      "id": "4",
+      "Jemput": "iya",
+      "ProdukList": "Botol Oli",
+      "Konfirmasi": "accept",
+      "DetailTransaksi": "1 karung"
+    },
+    {
+      "id": "5",
+      "Jemput": "iya",
+      "ProdukList": "plastik",
+      "Konfirmasi": "accept",
+      "DetailTransaksi": "4 karung"
     }
   ],
   "listPrice": [
@@ -121,27 +121,6 @@
       "satuan": "kilogram",
       "namaBankSampah": "Bank Sampah Sinar",
       "updateTerakhir": "25/10/2018"
-    }
-  ],
-  "feature": [
-    {
-      "id": 1,
-      "saldo": "",
-      "topup": "",
-      "t_bayar": "",
-      "t_beli": "",
-      "t_merchant": "",
-      "t_warung": "",
-      "t_jajan": "",
-      "t_chat": "",
-      "t_belajar": "",
-      "t_games": ""
-    }
-  ],
-  "checkTransaction": [
-    {
-      "id": 1,
-      "status": ""
     }
   ]
 }
