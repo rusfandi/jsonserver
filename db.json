@@ -122,5 +122,20 @@
       "namaBankSampah": "Bank Sampah Sinar",
       "updateTerakhir": "25/10/2018"
     }
+  ],
+  "feature": [
+    {
+      "id": "1",
+      "saldo": "5000000",
+      "topup": "1000000",
+      "t_bayar": "200000",
+      "t_beli": "100000",
+      "t_merchant": "200000",
+      "t_warung": "150000",
+      "t_jajan": "150000",
+      "t_chat": "100000",
+      "t_belajar": "200000",
+      "t_games": "200000"
+    }
   ]
 }
