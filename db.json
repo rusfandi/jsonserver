@@ -140,18 +140,21 @@
   ],
   "schedule": [
     {
-      "jadwal": "selasa",
+      "id": "1",
+      "jadwal": "Selasa",
       "deskripsi": "Penjumputan Sampah",
       "tanggal": "30/10/2018",
       "tempat": "Pos Kamling Rt 10"
     },
     {
-      "jadwal": "kamis",
+      "id": "2",
+      "jadwal": "Kamis",
       "deskripsi": "Penjumputan Sampah",
       "tanggal": "01/11/2018",
       "tempat": "Lapangan Bola RW 02"
     },
     {
+      "id": "3",
       "jadwal": "Minggu",
       "deskripsi": "Penjumputan Sampah",
       "tanggal": "04/11/2018",
